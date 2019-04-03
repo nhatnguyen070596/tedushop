@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Common", "TeduShop.Common\TeduShop.Common.csproj", "{4E7A0DE1-6EAD-4362-BDFD-464600AD13EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Model", "TeduShop.Model\TeduShop.Model.csproj", "{02AA5CDC-0463-4B3A-8C8F-4D4B6C4B1A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Data", "TeduShop.Data\TeduShop.Data.csproj", "{2378D4B1-EE17-4697-A719-507C327B807C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{AE1EC164-46D3-4395-8735-64B443C3A367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.UnitTest", "TeduShop.UnitTest\TeduShop.UnitTest.csproj", "{1BAE5F3F-7B1A-4ED4-BC53-8EEE4B6D04D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Web", "TeduShop.Web\TeduShop.Web.csproj", "{C98B3AD3-A717-4290-9521-4BEF08CF7BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7A0DE1-6EAD-4362-BDFD-464600AD13EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7A0DE1-6EAD-4362-BDFD-464600AD13EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7A0DE1-6EAD-4362-BDFD-464600AD13EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7A0DE1-6EAD-4362-BDFD-464600AD13EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AA5CDC-0463-4B3A-8C8F-4D4B6C4B1A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AA5CDC-0463-4B3A-8C8F-4D4B6C4B1A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AA5CDC-0463-4B3A-8C8F-4D4B6C4B1A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AA5CDC-0463-4B3A-8C8F-4D4B6C4B1A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2378D4B1-EE17-4697-A719-507C327B807C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2378D4B1-EE17-4697-A719-507C327B807C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2378D4B1-EE17-4697-A719-507C327B807C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2378D4B1-EE17-4697-A719-507C327B807C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1EC164-46D3-4395-8735-64B443C3A367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1EC164-46D3-4395-8735-64B443C3A367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1EC164-46D3-4395-8735-64B443C3A367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1EC164-46D3-4395-8735-64B443C3A367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAE5F3F-7B1A-4ED4-BC53-8EEE4B6D04D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAE5F3F-7B1A-4ED4-BC53-8EEE4B6D04D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAE5F3F-7B1A-4ED4-BC53-8EEE4B6D04D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAE5F3F-7B1A-4ED4-BC53-8EEE4B6D04D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98B3AD3-A717-4290-9521-4BEF08CF7BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98B3AD3-A717-4290-9521-4BEF08CF7BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98B3AD3-A717-4290-9521-4BEF08CF7BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98B3AD3-A717-4290-9521-4BEF08CF7BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8457633-94CB-4F5F-BFBB-59956C7AAD40}
+	EndGlobalSection
+EndGlobal
